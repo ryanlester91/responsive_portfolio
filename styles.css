@@ -1,0 +1,94 @@
+@media screen and (max-width: 980px) {
+    div.example {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    div.example {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    div.example {
+        display: none;
+    }
+}
+
+nav {
+    width: 500px;
+    box-sizing: border-box;
+    background-color: white;
+    text-align: center;
+    
+}
+
+h1 {
+    background-color: teal;
+    color: white;
+    text-align: center;
+
+}
+
+h2 {
+    color: teal;
+}
+
+#name-title {
+    background-color: teal;
+    color: white;
+    width: 33%;
+    text-align: center;
+}
+
+#links {
+    text-align: center;
+}
+
+body {
+    background-color: #ccc;
+}
+
+.button {
+    background-color: teal;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+}
+.container {
+    background-color: #fff;
+    width: 500px;
+    margin-left: 200px;
+}
+
+#value {
+    font-family: Arial;
+}
+
+#about {
+    
+}
+
+a {
+    text-decoration: none;
+    font-family: Verdana;
+}
+
+label {
+    font-family: Verdana;
+    color: gray;
+}
+
+.footer {
+    background-color: white;
+    width: 200px;
+    padding: 5px;
+    margin-top: 50px;
+    margin-left: 100px;
+}
